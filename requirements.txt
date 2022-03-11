@@ -1,0 +1,12 @@
+pyodbc~=4.0.32
+pandas~=1.4.1
+plotly~=5.6.0
+numpy~=1.22.2
+matplotlib~=3.5.1
+sklearn~=0.0
+scikit-learn~=1.0.2
+scipy~=1.8.0
+nltk~=3.7
+textblob~=0.17.1
+flair~=0.10
+segtok~=1.5.11
